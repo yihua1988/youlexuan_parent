@@ -13,7 +13,7 @@
     <artifactId>youlexuan_casdemo3</artifactId>
     <properties>
         <webVersion>3.0</webVersion>
-        <spring.version>4.2.4.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
     </properties>
     <dependencies>
         <dependency>
